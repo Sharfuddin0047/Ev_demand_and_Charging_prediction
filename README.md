@@ -84,10 +84,3 @@ Build a **regression-based machine learning model** that predicts the number of 
 - Use interactive dashboards (e.g., Plotly, Dash)
 
 ---
-
-## 📬 Contact
-
-For queries, feel free to reach out to the project maintainer.  
-_Contributors welcome!_
-
----
