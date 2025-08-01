@@ -14,7 +14,7 @@ County-level trends
 Vehicle type breakdowns (BEVs, PHEVs)
 
 📂 Dataset
-Source: Kaggle Dataset
+Source: https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population-size-2024/data
 
 Features Include:
 
